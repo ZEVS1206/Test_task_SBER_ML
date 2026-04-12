@@ -1,0 +1,2909 @@
+{
+  "keywords": [
+    {
+      "text": "переведите деньги на безопасный счёт",
+      "weight": 0.97,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведи деньги на защищённый счёт",
+      "weight": 0.97,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведите на резервный счёт",
+      "weight": 0.96,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведите на единый счёт центрального банка",
+      "weight": 0.97,
+      "category": "financial_action"
+    },
+    {
+      "text": "единый расчётный счёт цб",
+      "weight": 0.96,
+      "category": "financial_action"
+    },
+    {
+      "text": "государственный защищённый счёт",
+      "weight": 0.96,
+      "category": "financial_action"
+    },
+    {
+      "text": "безопасная ячейка",
+      "weight": 0.9,
+      "category": "financial_action"
+    },
+    {
+      "text": "технический счёт банка",
+      "weight": 0.92,
+      "category": "financial_action"
+    },
+    {
+      "text": "снимите наличные и передайте курьеру",
+      "weight": 0.98,
+      "category": "financial_action"
+    },
+    {
+      "text": "снимите деньги и положите в банкомат",
+      "weight": 0.95,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведите через банкомат",
+      "weight": 0.9,
+      "category": "financial_action"
+    },
+    {
+      "text": "обналичьте все средства",
+      "weight": 0.92,
+      "category": "financial_action"
+    },
+    {
+      "text": "снимите все деньги со счёта",
+      "weight": 0.91,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведите на криптовалютный кошелёк",
+      "weight": 0.93,
+      "category": "financial_action"
+    },
+    {
+      "text": "купите криптовалюту",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "пополните биткоин кошелёк",
+      "weight": 0.9,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведите на номер телефона",
+      "weight": 0.6,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведите по номеру карты",
+      "weight": 0.55,
+      "category": "financial_action"
+    },
+    {
+      "text": "деньги будут заморожены",
+      "weight": 0.88,
+      "category": "financial_action"
+    },
+    {
+      "text": "новая карта",
+      "weight": 0.55,
+      "category": "financial_action"
+    },
+    {
+      "text": "ваш счёт будет заблокирован",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "средства под угрозой",
+      "weight": 0.8,
+      "category": "financial_action"
+    },
+    {
+      "text": "деньги спишут мошенники",
+      "weight": 0.82,
+      "category": "financial_action"
+    },
+    {
+      "text": "мы спасём ваши деньги",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "вернём украденные деньги",
+      "weight": 0.8,
+      "category": "financial_action"
+    },
+    {
+      "text": "компенсируем ущерб",
+      "weight": 0.7,
+      "category": "financial_action"
+    },
+    {
+      "text": "ваши накопления в опасности",
+      "weight": 0.82,
+      "category": "financial_action"
+    },
+    {
+      "text": "переведите остаток на счёт",
+      "weight": 0.78,
+      "category": "financial_action"
+    },
+    {
+      "text": "арест счёта",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "заморозка активов",
+      "weight": 0.83,
+      "category": "financial_action"
+    },
+    {
+      "text": "конфискация средств",
+      "weight": 0.87,
+      "category": "financial_action"
+    },
+    {
+      "text": "служба безопасности банка",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "представитель службы безопасности",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "сотрудник центрального банка",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "следственный комитет",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "федеральная служба безопасности",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "сотрудник фсб",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "звоню из фсб",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "офицер фсб",
+      "weight": 0.83,
+      "category": "false_authority"
+    },
+    {
+      "text": "следователь по вашему делу",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "я следователь",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "оперативный сотрудник",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "сотрудник полиции",
+      "weight": 0.5,
+      "category": "false_authority"
+    },
+    {
+      "text": "звоню из прокуратуры",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "генеральная прокуратура",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "финансовая разведка",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "росфинмониторинг",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "управление по борьбе с мошенничеством",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "отдел экономической безопасности",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "служба финансового мониторинга",
+      "weight": 0.77,
+      "category": "false_authority"
+    },
+    {
+      "text": "сотрудник сбербанка",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "звоню из втб",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "звоню из альфа банка",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "сотрудник росбанка",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "технический отдел банка",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "отдел безопасности сбербанка",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "антифрод отдел",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "специальный отдел",
+      "weight": 0.6,
+      "category": "false_authority"
+    },
+    {
+      "text": "уголовный розыск",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "налоговая инспекция",
+      "weight": 0.55,
+      "category": "false_authority"
+    },
+    {
+      "text": "судебный пристав",
+      "weight": 0.6,
+      "category": "false_authority"
+    },
+    {
+      "text": "пенсионный фонд",
+      "weight": 0.5,
+      "category": "false_authority"
+    },
+    {
+      "text": "министерство финансов",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "интерпол",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "служба собственной безопасности",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "государственная структура",
+      "weight": 0.55,
+      "category": "false_authority"
+    },
+    {
+      "text": "прямо сейчас",
+      "weight": 0.55,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "немедленно",
+      "weight": 0.58,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "срочно",
+      "weight": 0.5,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "не кладите трубку",
+      "weight": 0.82,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "оставайтесь на линии",
+      "weight": 0.65,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "не отключайтесь",
+      "weight": 0.75,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "у вас есть только 10 минут",
+      "weight": 0.9,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "через час будет поздно",
+      "weight": 0.88,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "до конца рабочего дня",
+      "weight": 0.72,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "последний шанс",
+      "weight": 0.75,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "успейте до",
+      "weight": 0.7,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "завтра будет поздно",
+      "weight": 0.75,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "операция уже началась",
+      "weight": 0.82,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "мошенники уже действуют",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "счёт компрометирован прямо сейчас",
+      "weight": 0.88,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "с вашего счёта прямо сейчас списывают",
+      "weight": 0.9,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "незамедлительно",
+      "weight": 0.58,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "не теряйте времени",
+      "weight": 0.62,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "медлить нельзя",
+      "weight": 0.7,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "каждая секунда на счету",
+      "weight": 0.75,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "в течение 15 минут",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пока я на линии",
+      "weight": 0.72,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "сообщите код из смс",
+      "weight": 0.97,
+      "category": "data_request"
+    },
+    {
+      "text": "продиктуйте код из смс",
+      "weight": 0.97,
+      "category": "data_request"
+    },
+    {
+      "text": "назовите код подтверждения",
+      "weight": 0.95,
+      "category": "data_request"
+    },
+    {
+      "text": "код из сообщения",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "четырёхзначный код",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "шестизначный код",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "продиктуйте данные карты",
+      "weight": 0.97,
+      "category": "data_request"
+    },
+    {
+      "text": "назовите номер карты",
+      "weight": 0.92,
+      "category": "data_request"
+    },
+    {
+      "text": "сообщите cvv",
+      "weight": 0.98,
+      "category": "data_request"
+    },
+    {
+      "text": "три цифры на обороте",
+      "weight": 0.95,
+      "category": "data_request"
+    },
+    {
+      "text": "назовите пин код",
+      "weight": 0.97,
+      "category": "data_request"
+    },
+    {
+      "text": "продиктуйте пин",
+      "weight": 0.97,
+      "category": "data_request"
+    },
+    {
+      "text": "назовите срок действия карты",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "данные вашей карты",
+      "weight": 0.85,
+      "category": "data_request"
+    },
+    {
+      "text": "реквизиты вашего счёта",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "логин и пароль от банка",
+      "weight": 0.95,
+      "category": "data_request"
+    },
+    {
+      "text": "пароль от личного кабинета",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "подтвердите вашу личность",
+      "weight": 0.6,
+      "category": "data_request"
+    },
+    {
+      "text": "верификация по карте",
+      "weight": 0.72,
+      "category": "data_request"
+    },
+    {
+      "text": "идентификация клиента",
+      "weight": 0.55,
+      "category": "data_request"
+    },
+    {
+      "text": "фото паспорта",
+      "weight": 0.78,
+      "category": "data_request"
+    },
+    {
+      "text": "серия и номер паспорта",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "снилс",
+      "weight": 0.65,
+      "category": "data_request"
+    },
+    {
+      "text": "инн",
+      "weight": 0.6,
+      "category": "data_request"
+    },
+    {
+      "text": "назовите кодовое слово",
+      "weight": 0.75,
+      "category": "data_request"
+    },
+    {
+      "text": "кодовое слово для подтверждения",
+      "weight": 0.77,
+      "category": "data_request"
+    },
+    {
+      "text": "токен доступа",
+      "weight": 0.85,
+      "category": "data_request"
+    },
+    {
+      "text": "одноразовый пароль",
+      "weight": 0.83,
+      "category": "data_request"
+    },
+    {
+      "text": "push уведомление подтвердите",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "нажмите подтвердить в приложении",
+      "weight": 0.85,
+      "category": "data_request"
+    },
+    {
+      "text": "биометрия для подтверждения",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "никому не говорите",
+      "weight": 0.92,
+      "category": "isolation"
+    },
+    {
+      "text": "никому не рассказывайте",
+      "weight": 0.92,
+      "category": "isolation"
+    },
+    {
+      "text": "это секретная операция",
+      "weight": 0.95,
+      "category": "isolation"
+    },
+    {
+      "text": "сугубо конфиденциально",
+      "weight": 0.82,
+      "category": "isolation"
+    },
+    {
+      "text": "не говорите родственникам",
+      "weight": 0.9,
+      "category": "isolation"
+    },
+    {
+      "text": "не консультируйтесь с банком",
+      "weight": 0.9,
+      "category": "isolation"
+    },
+    {
+      "text": "не звоните в банк",
+      "weight": 0.88,
+      "category": "isolation"
+    },
+    {
+      "text": "сотрудники банка могут быть скомпрометированы",
+      "weight": 0.92,
+      "category": "isolation"
+    },
+    {
+      "text": "банк не должен знать",
+      "weight": 0.9,
+      "category": "isolation"
+    },
+    {
+      "text": "это под грифом секретно",
+      "weight": 0.9,
+      "category": "isolation"
+    },
+    {
+      "text": "иначе операция сорвётся",
+      "weight": 0.88,
+      "category": "isolation"
+    },
+    {
+      "text": "поставите под угрозу расследование",
+      "weight": 0.87,
+      "category": "isolation"
+    },
+    {
+      "text": "мы ведём слежку за мошенниками",
+      "weight": 0.82,
+      "category": "isolation"
+    },
+    {
+      "text": "в банке может быть утечка",
+      "weight": 0.85,
+      "category": "isolation"
+    },
+    {
+      "text": "среди сотрудников могут быть преступники",
+      "weight": 0.87,
+      "category": "isolation"
+    },
+    {
+      "text": "не сообщайте третьим лицам",
+      "weight": 0.85,
+      "category": "isolation"
+    },
+    {
+      "text": "держите в тайне",
+      "weight": 0.78,
+      "category": "isolation"
+    },
+    {
+      "text": "не обсуждайте по другим каналам",
+      "weight": 0.8,
+      "category": "isolation"
+    },
+    {
+      "text": "не пишите в мессенджерах",
+      "weight": 0.78,
+      "category": "isolation"
+    },
+    {
+      "text": "удалите переписку",
+      "weight": 0.82,
+      "category": "isolation"
+    },
+    {
+      "text": "только между нами",
+      "weight": 0.72,
+      "category": "isolation"
+    },
+    {
+      "text": "против вас возбуждено уголовное дело",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "уголовная ответственность",
+      "weight": 0.7,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вас могут арестовать",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вам грозит до 10 лет",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваши данные скомпрометированы",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "с вашего счёта пытаются списать",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "несанкционированная транзакция",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "подозрительная активность по счёту",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваши данные были похищены",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваш счёт используется мошенниками",
+      "weight": 0.83,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вы проходите по делу",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вы являетесь подозреваемым",
+      "weight": 0.83,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вы являетесь свидетелем по делу",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "незадекларированные доходы",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "незаконный перевод",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "финансирование нежелательных организаций",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "утечка персональных данных",
+      "weight": 0.7,
+      "category": "fear_panic"
+    },
+    {
+      "text": "долг по налогам",
+      "weight": 0.65,
+      "category": "fear_panic"
+    },
+    {
+      "text": "штраф налоговой",
+      "weight": 0.62,
+      "category": "fear_panic"
+    },
+    {
+      "text": "задолженность по кредиту",
+      "weight": 0.55,
+      "category": "fear_panic"
+    },
+    {
+      "text": "исполнительный лист",
+      "weight": 0.65,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваш родственник задержан",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваш сын попал в аварию",
+      "weight": 0.88,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваш ребёнок в беде",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "близкий человек под стражей",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "нужны деньги на адвоката",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "нужны деньги чтобы закрыть дело",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "решить вопрос без огласки",
+      "weight": 0.83,
+      "category": "fear_panic"
+    },
+    {
+      "text": "установите приложение для защиты",
+      "weight": 0.92,
+      "category": "malware_install"
+    },
+    {
+      "text": "скачайте приложение безопасности",
+      "weight": 0.9,
+      "category": "malware_install"
+    },
+    {
+      "text": "установите программу удалённого доступа",
+      "weight": 0.97,
+      "category": "malware_install"
+    },
+    {
+      "text": "anydesk",
+      "weight": 0.85,
+      "category": "malware_install"
+    },
+    {
+      "text": "teamviewer",
+      "weight": 0.75,
+      "category": "malware_install"
+    },
+    {
+      "text": "дайте нам доступ к вашему экрану",
+      "weight": 0.95,
+      "category": "malware_install"
+    },
+    {
+      "text": "откройте доступ к телефону",
+      "weight": 0.92,
+      "category": "malware_install"
+    },
+    {
+      "text": "разрешите управление устройством",
+      "weight": 0.92,
+      "category": "malware_install"
+    },
+    {
+      "text": "включите специальные возможности",
+      "weight": 0.85,
+      "category": "malware_install"
+    },
+    {
+      "text": "nfc платёж",
+      "weight": 0.8,
+      "category": "malware_install"
+    },
+    {
+      "text": "nfcgate",
+      "weight": 0.95,
+      "category": "malware_install"
+    },
+    {
+      "text": "приложите карту к телефону",
+      "weight": 0.82,
+      "category": "malware_install"
+    },
+    {
+      "text": "мы проверим ваш телефон удалённо",
+      "weight": 0.88,
+      "category": "malware_install"
+    },
+    {
+      "text": "антивирусное приложение от банка",
+      "weight": 0.85,
+      "category": "malware_install"
+    },
+    {
+      "text": "скачайте наше официальное приложение",
+      "weight": 0.75,
+      "category": "malware_install"
+    },
+    {
+      "text": "установите сертификат безопасности",
+      "weight": 0.88,
+      "category": "malware_install"
+    },
+    {
+      "text": "vpn для защиты",
+      "weight": 0.6,
+      "category": "malware_install"
+    },
+    {
+      "text": "специальное приложение банка",
+      "weight": 0.8,
+      "category": "malware_install"
+    },
+    {
+      "text": "приложение госуслуги безопасность",
+      "weight": 0.82,
+      "category": "malware_install"
+    },
+    {
+      "text": "скачайте из ссылки которую пришлём",
+      "weight": 0.9,
+      "category": "malware_install"
+    },
+    {
+      "text": "вам положена выплата",
+      "weight": 0.72,
+      "category": "greed_bait"
+    },
+    {
+      "text": "вы выиграли приз",
+      "weight": 0.75,
+      "category": "greed_bait"
+    },
+    {
+      "text": "вы получили наследство",
+      "weight": 0.7,
+      "category": "greed_bait"
+    },
+    {
+      "text": "неиспользованные пенсионные накопления",
+      "weight": 0.75,
+      "category": "greed_bait"
+    },
+    {
+      "text": "налоговый вычет",
+      "weight": 0.55,
+      "category": "greed_bait"
+    },
+    {
+      "text": "компенсация за утечку данных",
+      "weight": 0.78,
+      "category": "greed_bait"
+    },
+    {
+      "text": "страховая выплата",
+      "weight": 0.6,
+      "category": "greed_bait"
+    },
+    {
+      "text": "социальная выплата",
+      "weight": 0.58,
+      "category": "greed_bait"
+    },
+    {
+      "text": "федеральная программа выплат",
+      "weight": 0.72,
+      "category": "greed_bait"
+    },
+    {
+      "text": "возврат средств за некачественный товар",
+      "weight": 0.65,
+      "category": "greed_bait"
+    },
+    {
+      "text": "переплата по кредиту",
+      "weight": 0.6,
+      "category": "greed_bait"
+    },
+    {
+      "text": "единовременная выплата",
+      "weight": 0.62,
+      "category": "greed_bait"
+    },
+    {
+      "text": "вы стали участником акции",
+      "weight": 0.68,
+      "category": "greed_bait"
+    },
+    {
+      "text": "лотерейный выигрыш",
+      "weight": 0.72,
+      "category": "greed_bait"
+    },
+    {
+      "text": "для получения выплаты введите данные карты",
+      "weight": 0.95,
+      "category": "greed_bait"
+    },
+    {
+      "text": "для получения выплаты оплатите комиссию",
+      "weight": 0.9,
+      "category": "greed_bait"
+    },
+    {
+      "text": "небольшой взнос для получения денег",
+      "weight": 0.9,
+      "category": "greed_bait"
+    },
+    {
+      "text": "подарок от банка",
+      "weight": 0.65,
+      "category": "greed_bait"
+    },
+    {
+      "text": "переключаю вас на следователя",
+      "weight": 0.88,
+      "category": "multi_operator"
+    },
+    {
+      "text": "переключаю на сотрудника безопасности",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "переключаю на старшего специалиста",
+      "weight": 0.78,
+      "category": "multi_operator"
+    },
+    {
+      "text": "переключаю на куратора операции",
+      "weight": 0.9,
+      "category": "multi_operator"
+    },
+    {
+      "text": "с вами будет говорить офицер",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "оставайтесь на линии я уточняю",
+      "weight": 0.7,
+      "category": "multi_operator"
+    },
+    {
+      "text": "передаю звонок руководителю",
+      "weight": 0.75,
+      "category": "multi_operator"
+    },
+    {
+      "text": "соединяю с отделом",
+      "weight": 0.65,
+      "category": "multi_operator"
+    },
+    {
+      "text": "участвуете в спецоперации правоохранителей",
+      "weight": 0.9,
+      "category": "multi_operator"
+    },
+    {
+      "text": "ваш гражданский долг",
+      "weight": 0.75,
+      "category": "multi_operator"
+    },
+    {
+      "text": "помогите поймать мошенников",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "вы наш агент",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "действуете под прикрытием",
+      "weight": 0.87,
+      "category": "multi_operator"
+    },
+    {
+      "text": "совместная операция с банком",
+      "weight": 0.83,
+      "category": "multi_operator"
+    },
+    {
+      "text": "контрольная закупка",
+      "weight": 0.8,
+      "category": "multi_operator"
+    },
+    {
+      "text": "проверка кассира",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "мы ведём дело в отношении сотрудника банка",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "не называйте цель снятия денег",
+      "weight": 0.9,
+      "category": "multi_operator"
+    },
+    {
+      "text": "скажите кассиру что снимаете на ремонт",
+      "weight": 0.95,
+      "category": "multi_operator"
+    },
+    {
+      "text": "придумайте причину для снятия",
+      "weight": 0.93,
+      "category": "multi_operator"
+    },
+    {
+      "text": "приложите карту к экрану телефона",
+      "weight": 0.9,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "мы удалённо считаем данные карты",
+      "weight": 0.92,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "специальный терминал",
+      "weight": 0.65,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "бесконтактная оплата для защиты",
+      "weight": 0.85,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "перевод через nfc",
+      "weight": 0.85,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "установите наше приложение на андроид",
+      "weight": 0.8,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "apk файл",
+      "weight": 0.87,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "скачайте файл не из магазина",
+      "weight": 0.88,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "разрешите установку из неизвестных источников",
+      "weight": 0.9,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "включите режим разработчика",
+      "weight": 0.85,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "push уведомление от нашего приложения",
+      "weight": 0.78,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "qr код для подтверждения",
+      "weight": 0.75,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "отсканируйте qr код",
+      "weight": 0.72,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "переведите через банкомат по qr",
+      "weight": 0.88,
+      "category": "nfc_scheme"
+    },
+    {
+      "text": "ваш номер в нашей базе",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "по нашим данным вы клиент",
+      "weight": 0.62,
+      "category": "false_authority"
+    },
+    {
+      "text": "ваша карта заканчивается на",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "верно ли что вы",
+      "weight": 0.5,
+      "category": "false_authority"
+    },
+    {
+      "text": "мы видим подозрительный вход",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "несанкционированный доступ к счёту",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "попытка входа из другого города",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с незнакомого устройства",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "мы фиксируем вашу операцию",
+      "weight": 0.72,
+      "category": "multi_operator"
+    },
+    {
+      "text": "разговор записывается",
+      "weight": 0.6,
+      "category": "multi_operator"
+    },
+    {
+      "text": "это официальное предупреждение",
+      "weight": 0.68,
+      "category": "false_authority"
+    },
+    {
+      "text": "документы уже направлены",
+      "weight": 0.65,
+      "category": "fear_panic"
+    },
+    {
+      "text": "постановление суда",
+      "weight": 0.68,
+      "category": "fear_panic"
+    },
+    {
+      "text": "решение суда вступило в силу",
+      "weight": 0.7,
+      "category": "fear_panic"
+    },
+    {
+      "text": "на ваш адрес выедет группа",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "задержание предусмотрено",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "дело будет передано в суд",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "предлагаем досудебное урегулирование",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "избежать уголовного преследования",
+      "weight": 0.83,
+      "category": "fear_panic"
+    },
+    {
+      "text": "дать показания",
+      "weight": 0.6,
+      "category": "fear_panic"
+    },
+    {
+      "text": "явиться на допрос",
+      "weight": 0.65,
+      "category": "fear_panic"
+    },
+    {
+      "text": "подписать протокол",
+      "weight": 0.62,
+      "category": "fear_panic"
+    },
+    {
+      "text": "просмотрели код",
+      "weight": 0.85,
+      "category": "data_request"
+    },
+    {
+      "text": "указывайте данный код",
+      "weight": 0.92,
+      "category": "data_request"
+    },
+    {
+      "text": "называйте данный код",
+      "weight": 0.92,
+      "category": "data_request"
+    },
+    {
+      "text": "продублировать номер пластикового носителя",
+      "weight": 0.93,
+      "category": "data_request"
+    },
+    {
+      "text": "номер пластикового носителя",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "пластиковый носитель",
+      "weight": 0.7,
+      "category": "data_request"
+    },
+    {
+      "text": "номер карты продублируйте",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "электронная подпись это пароль из смс",
+      "weight": 0.95,
+      "category": "data_request"
+    },
+    {
+      "text": "пароль из смс оповещения",
+      "weight": 0.93,
+      "category": "data_request"
+    },
+    {
+      "text": "пароль для регистрации",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "код для отклонения",
+      "weight": 0.87,
+      "category": "data_request"
+    },
+    {
+      "text": "код необходим для отклонения",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "мне необходимо узнать код чтобы отменить",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "укажите данный код",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "назовите пятизначный код",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "пятизначный код",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "код подтверждения",
+      "weight": 0.5,
+      "category": "data_request"
+    },
+    {
+      "text": "верификация по пластиковому носителю",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "пройти процедуру верификации",
+      "weight": 0.75,
+      "category": "data_request"
+    },
+    {
+      "text": "верификация по финансовому договору",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "баланс на вашей карте",
+      "weight": 0.78,
+      "category": "data_request"
+    },
+    {
+      "text": "на какую сумму застраховать",
+      "weight": 0.85,
+      "category": "data_request"
+    },
+    {
+      "text": "сколько средств на счёте",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "какой баланс на карте",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "старший следователь мвд",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "главное управление мвд",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "главное управление министерства внутренних дел",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "управление экономической безопасности",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "противодействие коррупции",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "финансовый департамент сбербанка",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "специалист финансового департамента",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "старший специалист финансового департамента",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "отдел внутрибанковского информирования",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "центр поддержки клиентов",
+      "weight": 0.55,
+      "category": "false_authority"
+    },
+    {
+      "text": "аккаунт менеджер банка",
+      "weight": 0.6,
+      "category": "false_authority"
+    },
+    {
+      "text": "роботизированный помощник банка",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "клиентская поддержка втб",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "департамент центрального банка",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "банк российской федерации",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "центральный банк российской федерации",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "пао сбербанк",
+      "weight": 0.6,
+      "category": "false_authority"
+    },
+    {
+      "text": "младший специалист банка",
+      "weight": 0.55,
+      "category": "false_authority"
+    },
+    {
+      "text": "старший лейтенант",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "майор полиции",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "ваш специалист",
+      "weight": 0.45,
+      "category": "false_authority"
+    },
+    {
+      "text": "попытка хищения денежных средств",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "хищение в крупном размере",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "неправомерные действия в вашу сторону",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "правонарушение согласно статье",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "статья 327 ук рф",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "статья 159",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "подделка официального документа",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "уголовное производство",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "возбуждено уголовное производство",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "мошеннические действия с вашим счётом",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "зафиксированы мошеннические действия",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "данные операции как мошеннические",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "попытка перевода ваших средств",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "несанкционированный вход в личный кабинет",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с двух различных устройств",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход из другого региона",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "компрометация персональных данных",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "компрометация данных произошла онлайн",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "третьи лица воспользовались вашей информацией",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "мошенники имеют полный перечень ваших данных",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "у мошенников есть ваши персональные данные",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявление по факту мошенничества",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "по подозрению в правонарушении",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "нотариально заверенная доверенность",
+      "weight": 0.72,
+      "category": "fear_panic"
+    },
+    {
+      "text": "пытался овладеть вашими средствами",
+      "weight": 0.88,
+      "category": "fear_panic"
+    },
+    {
+      "text": "данная информация является неверной",
+      "weight": 0.65,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявка подавалась через ваш онлайн кабинет",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "связь прерывать запрещено",
+      "weight": 0.92,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "не прерывайте связь",
+      "weight": 0.9,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "не обрывая связь",
+      "weight": 0.88,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "фиксированное время на отклонение",
+      "weight": 0.87,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "в оперативном порядке",
+      "weight": 0.7,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "требуется предпринимать меры",
+      "weight": 0.68,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "произошла утечка информации",
+      "weight": 0.65,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "касаемо зафиксированной активности",
+      "weight": 0.5,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "вашей персональной информацией пользуются третьи лица",
+      "weight": 0.6,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пущу всё на самотёк",
+      "weight": 0.85,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пущу все на самотёк",
+      "weight": 0.85,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пущу всё на самотек",
+      "weight": 0.85,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пущу все на самотек",
+      "weight": 0.85,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пустить все на самотёк",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пустить всё на самотёк",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пустить все на самотек",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "пустить всё на самотек",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "если не заинтересованы в сохранении средств",
+      "weight": 0.88,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "могу отключиться",
+      "weight": 0.72,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "не жените никому не говорить",
+      "weight": 0.92,
+      "category": "isolation"
+    },
+    {
+      "text": "не сообщайте никому пароль",
+      "weight": 0.88,
+      "category": "isolation"
+    },
+    {
+      "text": "пятизначный код никому не указывайте",
+      "weight": 0.9,
+      "category": "isolation"
+    },
+    {
+      "text": "никому не указывайте во избежание",
+      "weight": 0.88,
+      "category": "isolation"
+    },
+    {
+      "text": "переведу вас на старшего специалиста",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "соединю вас со специалистом",
+      "weight": 0.7,
+      "category": "multi_operator"
+    },
+    {
+      "text": "переключу на старшего менеджера",
+      "weight": 0.78,
+      "category": "multi_operator"
+    },
+    {
+      "text": "разговор будет передан в генеральную прокуратуру",
+      "weight": 0.88,
+      "category": "multi_operator"
+    },
+    {
+      "text": "под запись нашего диалога",
+      "weight": 0.8,
+      "category": "multi_operator"
+    },
+    {
+      "text": "акт неправомерных действий",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "заполнить протокол",
+      "weight": 0.75,
+      "category": "multi_operator"
+    },
+    {
+      "text": "протокол неправомерных действий",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "дать понять системе банка",
+      "weight": 0.78,
+      "category": "multi_operator"
+    },
+    {
+      "text": "использована ваша электронная подпись",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "смена финансового номера телефона",
+      "weight": 0.82,
+      "category": "financial_action"
+    },
+    {
+      "text": "замена контактного номера",
+      "weight": 0.78,
+      "category": "financial_action"
+    },
+    {
+      "text": "сторонний номер телефона",
+      "weight": 0.72,
+      "category": "financial_action"
+    },
+    {
+      "text": "заявка на изменение финансового номера",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "заявка на закрытие вклада",
+      "weight": 0.75,
+      "category": "financial_action"
+    },
+    {
+      "text": "перевод на карту третьего лица",
+      "weight": 0.88,
+      "category": "financial_action"
+    },
+    {
+      "text": "на карту третьего лица",
+      "weight": 0.55,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "зачисление на реквизиты стороннего лица",
+      "weight": 0.88,
+      "category": "financial_action"
+    },
+    {
+      "text": "сторонние реквизиты для зачисления",
+      "weight": 0.87,
+      "category": "financial_action"
+    },
+    {
+      "text": "единый лицевой счёт",
+      "weight": 0.72,
+      "category": "financial_action"
+    },
+    {
+      "text": "заявка на потребительский кредит",
+      "weight": 0.65,
+      "category": "financial_action"
+    },
+    {
+      "text": "кредит на сторонние реквизиты",
+      "weight": 0.87,
+      "category": "financial_action"
+    },
+    {
+      "text": "перерегистрация онлайн кабинета",
+      "weight": 0.8,
+      "category": "financial_action"
+    },
+    {
+      "text": "отклонить неправомерные действия с личным кабинетом",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "первичная регистрация на домклик",
+      "weight": 0.75,
+      "category": "financial_action"
+    },
+    {
+      "text": "корректно введены паспортные данные",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "финансовый отдел",
+      "weight": 0.55,
+      "category": "false_authority"
+    },
+    {
+      "text": "была использована ваша электронная подпись",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "ваш номер зафиксирован в системе",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "заявка была отправлена с вашей учётной записи",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "вход был совершён с вашего личного кабинета",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "фиксирую данную информацию",
+      "weight": 0.6,
+      "category": "false_authority"
+    },
+    {
+      "text": "банк усомнился в данных действиях",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "материалы правонарушительного факта",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "оценка центробанка",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "сейчас пытались взять кредит с вашего личного кабинета",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "были поданы заявки на кредитование",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "три заявки на кредит",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявка подана на потребительский кредит",
+      "weight": 0.68,
+      "category": "fear_panic"
+    },
+    {
+      "text": "попытка перевода с вашего счёта",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "мошенники удаляют данные транзакции",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "с вашего личного кабинета удаляют данные",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "гражданин явился в отделение",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "представился вашим родственником",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "имел доверенность нотариально заверенную",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с города уфа",
+      "weight": 0.72,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с незнакомого региона",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "капитан юстиции главного управления мвд",
+      "weight": 0.88,
+      "category": "false_authority"
+    },
+    {
+      "text": "следственного комитета",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "подполковник полиции",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "капитан полиции",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "старший следователь экономического отдела безопасности",
+      "weight": 0.88,
+      "category": "false_authority"
+    },
+    {
+      "text": "старший лейтенант юстиции",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "следователь увд",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "ого мвд",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "главное управление экономической безопасности и противодействия коррупции",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "центр спецобеспечения обслуживания банковских карт",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "отдел финансового мониторинга",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "отдел финансового контроля",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "контакт центр альфа банка",
+      "weight": 0.68,
+      "category": "false_authority"
+    },
+    {
+      "text": "центр контроля операций сбербанка",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "отдел контроля операций",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "технический центр обслуживания",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "специалист финансового отдела платежей и переводов",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "представитель главного управления города москва",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "на петровке 38",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "следственное управление",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "следственный комитет следственное управление",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "старший специалист финансового отдела",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "региональное управление фсб",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "следственным региональным управлением фсб",
+      "weight": 0.87,
+      "category": "false_authority"
+    },
+    {
+      "text": "департамент безопасности центробанка",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "полномочия от департамента безопасности",
+      "weight": 0.83,
+      "category": "false_authority"
+    },
+    {
+      "text": "оперативный штаб для связи с гражданами",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "попытка кражи с вашего счёта",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "была попытка хищения средств",
+      "weight": 0.88,
+      "category": "fear_panic"
+    },
+    {
+      "text": "попытка кражи в размере",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "сумма превышала 50 000",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "утечка персональных данных более 120 000 граждан",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваше имя оказалось в списке",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ваши паспортные данные фигурируют в деле",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "паспортные данные указаны в заявке",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "снилс и инн были указаны в заявке",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "представился вашим племянником",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "представился вашим родственником и потребовал",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "предъявил доверенность на распоряжение вашими счетами",
+      "weight": 0.9,
+      "category": "fear_panic"
+    },
+    {
+      "text": "нотариальные доверенности на право распоряжения",
+      "weight": 0.88,
+      "category": "fear_panic"
+    },
+    {
+      "text": "потребовал выдать максимально доступную сумму",
+      "weight": 0.9,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вы являетесь потенциальным мошенником",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вводите в заблуждение",
+      "weight": 0.72,
+      "category": "fear_panic"
+    },
+    {
+      "text": "ожидайте повестки в суд",
+      "weight": 0.87,
+      "category": "fear_panic"
+    },
+    {
+      "text": "системный сбой хакерские атаки",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "хакерские атаки на системы банка",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "пострадали тысячи клиентов банка",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "нехарактерная операция с вашего счёта",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "нехарактерный вход в личный кабинет",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с нехарактерного адреса",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "поступила попытка перевода на",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "операция ожидает дополнительного подтверждения",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "транзакция отобразилась как подозрительная",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "регион оплаты не совпал",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "перевод приостановлен системой безопасности",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "операция приостановлена",
+      "weight": 0.68,
+      "category": "fear_panic"
+    },
+    {
+      "text": "зафиксирована заявка через ваш онлайн кабинет",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявка вызвала подозрение не с вашего региона",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявка подана не с вашего региона",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с краснодара",
+      "weight": 0.72,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с уфы",
+      "weight": 0.72,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вход с постороннего адреса",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "попытки перевода на стороннее лицо",
+      "weight": 0.83,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявка на кредит в нескольких банках одновременно",
+      "weight": 0.83,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявка в нескольких банковских структурах",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "статья 27 ук рф",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "статья 139 ук рф",
+      "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "причастны к составу механизма преступления",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "возбуждено уголовное дело по факту",
+      "weight": 0.85,
+      "category": "fear_panic"
+    },
+    {
+      "text": "заявление от центробанка",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "поступило заявление от центрального банка",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "банк зафиксировал отказ от помощи",
+      "weight": 0.8,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вы будете вызваны в суд",
+      "weight": 0.82,
+      "category": "fear_panic"
+    },
+    {
+      "text": "уголовное дело часть первая",
+      "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "обналичить счета",
+      "weight": 0.93,
+      "category": "financial_action"
+    },
+    {
+      "text": "снять валютный в рублях",
+      "weight": 0.88,
+      "category": "financial_action"
+    },
+    {
+      "text": "конвертация валюты через банкомат",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "перевод средств вернём в валюте",
+      "weight": 0.88,
+      "category": "financial_action"
+    },
+    {
+      "text": "подключаюсь по камерам видеонаблюдения",
+      "weight": 0.9,
+      "category": "financial_action"
+    },
+    {
+      "text": "ваша задача обналичить",
+      "weight": 0.95,
+      "category": "financial_action"
+    },
+    {
+      "text": "денежные средства в стадии зачисления",
+      "weight": 0.75,
+      "category": "financial_action"
+    },
+    {
+      "text": "заявка в статусе зачисления",
+      "weight": 0.75,
+      "category": "financial_action"
+    },
+    {
+      "text": "деньги переведут на транзитный счёт",
+      "weight": 0.88,
+      "category": "financial_action"
+    },
+    {
+      "text": "счёт неподтверждённых платежей",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "перевести на внутрибанковский счёт",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "внутрибанковский счёт включает все карты",
+      "weight": 0.82,
+      "category": "financial_action"
+    },
+    {
+      "text": "основной внутрибанковский счёт",
+      "weight": 0.8,
+      "category": "financial_action"
+    },
+    {
+      "text": "единый лицевой счёт включает все продукты",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "ваша задача снять деньги",
+      "weight": 0.92,
+      "category": "financial_action"
+    },
+    {
+      "text": "заявка на закрытие вкладовложения",
+      "weight": 0.85,
+      "category": "financial_action"
+    },
+    {
+      "text": "закрытие вклада на карту стороннего лица",
+      "weight": 0.9,
+      "category": "financial_action"
+    },
+    {
+      "text": "открыть счёт на ваше имя",
+      "weight": 0.8,
+      "category": "financial_action"
+    },
+    {
+      "text": "зачислить сумму на реквизиты стороннего",
+      "weight": 0.88,
+      "category": "financial_action"
+    },
+    {
+      "text": "кодовое слово подскажите",
+      "weight": 0.92,
+      "category": "data_request"
+    },
+    {
+      "text": "скажите ваше кодовое слово",
+      "weight": 0.92,
+      "category": "data_request"
+    },
+    {
+      "text": "предоставлю варианты кодового слова",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "контрольное слово для подтверждения",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "контрольная информация подтверждена",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "остаточный баланс по карте",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "какой остаток по карте",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "приблизительный остаток",
+      "weight": 0.78,
+      "category": "data_request"
+    },
+    {
+      "text": "сколько активных карт",
+      "weight": 0.78,
+      "category": "data_request"
+    },
+    {
+      "text": "сколько действующих карт",
+      "weight": 0.78,
+      "category": "data_request"
+    },
+    {
+      "text": "сколько карт у вас в пользовании",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "последние четыре цифры карты",
+      "weight": 0.85,
+      "category": "data_request"
+    },
+    {
+      "text": "последние цифры карты",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "озвучьте сумму перевода для подтверждения",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "представьте вашу фамилию для подтверждения личности",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "предоставьте номер карты для верификации",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "предоставьте любой номер карты",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "это верификация что вы клиент",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "пройти верификацию как клиента банка",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "укажите по номеру любой действующей карты",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "смс подтверждение авторизации",
+      "weight": 0.8,
+      "category": "data_request"
+    },
+    {
+      "text": "каким образом подтверждали авторизацию",
+      "weight": 0.78,
+      "category": "data_request"
+    },
+    {
+      "text": "код протекции",
+      "weight": 0.88,
+      "category": "data_request"
+    },
+    {
+      "text": "пятизначный код протекции",
+      "weight": 0.9,
+      "category": "data_request"
+    },
+    {
+      "text": "по номеру договора для верификации",
+      "weight": 0.82,
+      "category": "data_request"
+    },
+    {
+      "text": "ни в коем случае не прерывайте связь",
+      "weight": 0.92,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "оставайтесь на линии пока я перевожу",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "сейчас в срочном порядке направляйтесь",
+      "weight": 0.82,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "ведутся работы по отмене операций",
+      "weight": 0.72,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "в автоматическом порядке переведены средства",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "требуется в срочном порядке аннулировать",
+      "weight": 0.82,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "подайте заявку на отмену срочно",
+      "weight": 0.8,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "за несколько минут уже три заявки",
+      "weight": 0.82,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "семь минут назад была подана заявка",
+      "weight": 0.75,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "двадцать минут назад",
+      "weight": 0.58,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "три минуты назад",
+      "weight": 0.6,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "в течение двух минут",
+      "weight": 0.65,
+      "category": "urgency_pressure"
+    },
+    {
+      "text": "все действия сотрудников банка являются правомерными",
+      "weight": 0.92,
+      "category": "multi_operator"
+    },
+    {
+      "text": "выполняйте всё что говорят сотрудники банка",
+      "weight": 0.93,
+      "category": "multi_operator"
+    },
+    {
+      "text": "слушайте и выполняйте все действия",
+      "weight": 0.9,
+      "category": "multi_operator"
+    },
+    {
+      "text": "сейчас с вами свяжется сотрудник банка",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "соединяю вас с центробанком",
+      "weight": 0.88,
+      "category": "multi_operator"
+    },
+    {
+      "text": "передаю линию центробанка",
+      "weight": 0.88,
+      "category": "multi_operator"
+    },
+    {
+      "text": "перевожу на старшего специалиста финансового отдела",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "разговоры будут прикреплены к делу",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "разговор будет прикреплён к уголовному делу",
+      "weight": 0.87,
+      "category": "multi_operator"
+    },
+    {
+      "text": "дал полномочия от департамента безопасности",
+      "weight": 0.85,
+      "category": "multi_operator"
+    },
+    {
+      "text": "записала полный пакет информации",
+      "weight": 0.75,
+      "category": "multi_operator"
+    },
+    {
+      "text": "направлю смс для использования в отделении",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "получите запись нашего разговора",
+      "weight": 0.78,
+      "category": "multi_operator"
+    },
+    {
+      "text": "служебная выписка по данному вопросу",
+      "weight": 0.8,
+      "category": "multi_operator"
+    },
+    {
+      "text": "документацию об отмене неправомерных действий",
+      "weight": 0.8,
+      "category": "multi_operator"
+    },
+    {
+      "text": "уведомить банковские структуры об утечке данных",
+      "weight": 0.78,
+      "category": "multi_operator"
+    },
+    {
+      "text": "отправить запрос на предмет утечки",
+      "weight": 0.78,
+      "category": "multi_operator"
+    },
+    {
+      "text": "фиксирую акт неправомерных действий",
+      "weight": 0.82,
+      "category": "multi_operator"
+    },
+    {
+      "text": "блокировать по протоколу",
+      "weight": 0.8,
+      "category": "multi_operator"
+    },
+    {
+      "text": "действие третьих лиц по протоколу",
+      "weight": 0.8,
+      "category": "multi_operator"
+    },
+    {
+      "text": "данный разговор ведётся под запись",
+      "weight": 0.78,
+      "category": "multi_operator"
+    },
+    {
+      "text": "разговор записывается и будет передан прокуратуре",
+      "weight": 0.88,
+      "category": "multi_operator"
+    },
+    {
+      "text": "карту не берите с собой",
+      "weight": 0.87,
+      "category": "isolation"
+    },
+    {
+      "text": "не говорите в банке зачем снимаете",
+      "weight": 0.92,
+      "category": "isolation"
+    },
+    {
+      "text": "не раскрывайте цель операции сотрудникам",
+      "weight": 0.9,
+      "category": "isolation"
+    },
+    {
+      "text": "не обсуждайте с сотрудниками банка",
+      "weight": 0.88,
+      "category": "isolation"
+    },
+    {
+      "text": "в банке в курсе операции только наш отдел",
+      "weight": 0.87,
+      "category": "isolation"
+    },
+    {
+      "text": "подключаюсь по камерам",
+      "weight": 0.88,
+      "category": "isolation"
+    },
+    {
+      "text": "вам сообщили вы сами сказали",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "у нас на вас есть учётная запись",
+      "weight": 0.68,
+      "category": "false_authority"
+    },
+    {
+      "text": "заявка зарегистрирована по вашему номеру",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "есть регистрация по вашему номеру телефона",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "в системе банка зафиксирована попытка",
+      "weight": 0.75,
+      "category": "false_authority"
+    },
+    {
+      "text": "система нашего банка зафиксировала",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "наш технический центр обслуживает сбербанк",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "в рамках договора обслуживаем ряд банков",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "информация по записи разговора",
+      "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "сотрудничаем со сбербанком",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "сбербанк передал нам вашу заявку",
+      "weight": 0.8,
+      "category": "false_authority"
+    },
+    {
+      "text": "передал информацию технический отдел",
+      "weight": 0.72,
+      "category": "false_authority"
+    },
+    {
+      "text": "об этой ситуации вас поставили в известность",
+      "weight": 0.7,
+      "category": "false_authority"
+    },
+    {
+      "text": "ваши данные фигурируют в заявлении центробанка",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "центробанк выступает в роли потерпевшего",
+      "weight": 0.82,
+      "category": "false_authority"
+    },
+    {
+      "text": "центробанк обязуется компенсировать сумму",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "если не было вашей вины компенсируем",
+      "weight": 0.85,
+      "category": "false_authority"
+    },
+    {
+      "text": "кредит одобрен в нескольких банках",
+      "weight": 0.78,
+      "category": "false_authority"
+    },
+    {
+      "text": "заявка на стадии зачисления",
+      "weight": 0.72,
+      "category": "false_authority"
+    }
+  ]
+}
