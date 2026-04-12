@@ -1401,6 +1401,11 @@
       "category": "data_request"
     },
     {
+      "text": "любой карты укажите оба",
+      "weight": 0.5,
+      "category": "data_request"
+    },
+    {
       "text": "пройти процедуру верификации",
       "weight": 0.75,
       "category": "data_request"
@@ -1841,6 +1846,16 @@
       "category": "financial_action"
     },
     {
+      "text": "смену финансового номера телефона",
+      "weight": 0.82,
+      "category": "financial_action"
+    },
+    {
+      "text": "смену финансового номер телефона",
+      "weight": 0.82,
+      "category": "financial_action"
+    },
+    {
       "text": "замена контактного номера",
       "weight": 0.78,
       "category": "financial_action"
@@ -1848,6 +1863,21 @@
     {
       "text": "сторонний номер телефона",
       "weight": 0.72,
+      "category": "financial_action"
+    },
+    {
+      "text": "финансовая номер телефона",
+      "weight": 0.7,
+      "category": "financial_action"
+    },
+    {
+      "text": "финансовый номер телефона",
+      "weight": 0.7,
+      "category": "financial_action"
+    },
+    {
+      "text": "финансово номера телефона",
+      "weight": 0.7,
       "category": "financial_action"
     },
     {
@@ -1917,6 +1947,11 @@
     },
     {
       "text": "финансовый отдел",
+      "weight": 0.55,
+      "category": "false_authority"
+    },
+    {
+      "text": "контактный центр альфа-банка",
       "weight": 0.55,
       "category": "false_authority"
     },
@@ -2018,6 +2053,21 @@
     {
       "text": "вход с незнакомого региона",
       "weight": 0.75,
+      "category": "fear_panic"
+    },
+    {
+      "text": "для дачи показаний",
+      "weight": 0.6,
+      "category": "fear_panic"
+    },
+    {
+      "text": "на ваше имя пытались оформить кредитную",
+      "weight": 0.6,
+      "category": "fear_panic"
+    },
+    {
+      "text": "вашей племянницей",
+      "weight": 0.8,
       "category": "fear_panic"
     },
     {
@@ -2356,6 +2406,11 @@
       "category": "fear_panic"
     },
     {
+      "text": "статья сто тридцать девятая",
+      "weight": 0.6,
+      "category": "fear_panic"
+    },
+    {
       "text": "причастны к составу механизма преступления",
       "weight": 0.85,
       "category": "fear_panic"
@@ -2388,6 +2443,11 @@
     {
       "text": "уголовное дело часть первая",
       "weight": 0.78,
+      "category": "fear_panic"
+    },
+    {
+      "text": "слушайте меня внимательно",
+      "weight": 0.68,
       "category": "fear_panic"
     },
     {
@@ -2456,6 +2516,16 @@
       "category": "financial_action"
     },
     {
+      "text": "транзитный счёт",
+      "weight": 0.81,
+      "category": "financial_action"
+    },
+    {
+      "text": "подозрительной операцию",
+      "weight": 0.58,
+      "category": "financial_action"
+    },
+    {
       "text": "единый лицевой счёт включает все продукты",
       "weight": 0.85,
       "category": "financial_action"
@@ -2466,6 +2536,16 @@
       "category": "financial_action"
     },
     {
+      "text": "нехарактерная вам операция",
+      "weight": 0.4,
+      "category": "financial_action"
+    },
+    {
+      "text": "с вашего основного счёта сегодня пытались похитить средства",
+      "weight": 0.6,
+      "category": "financial_action"
+    },
+    {
       "text": "заявка на закрытие вкладовложения",
       "weight": 0.85,
       "category": "financial_action"
@@ -2473,6 +2553,11 @@
     {
       "text": "закрытие вклада на карту стороннего лица",
       "weight": 0.9,
+      "category": "financial_action"
+    },
+    {
+      "text": "вашей заявки на получение потребительского кредита",
+      "weight": 0.68,
       "category": "financial_action"
     },
     {
@@ -2576,6 +2661,16 @@
       "category": "data_request"
     },
     {
+      "text": "скажите пожалуйста последние четыре цифры",
+      "weight": 0.83,
+      "category": "data_request"
+    },
+    {
+      "text": "последние четыре цифры указанной карты",
+      "weight": 0.83,
+      "category": "data_request"
+    },
+    {
       "text": "пройти верификацию как клиента банка",
       "weight": 0.8,
       "category": "data_request"
@@ -2656,6 +2751,11 @@
       "category": "urgency_pressure"
     },
     {
+      "text": "ответьте да или нет",
+      "weight": 0.3,
+      "category": "urgency_pressure"
+    },
+    {
       "text": "двадцать минут назад",
       "weight": 0.58,
       "category": "urgency_pressure"
@@ -2676,6 +2776,11 @@
       "category": "multi_operator"
     },
     {
+      "text": "соединяю вас со специалистом",
+      "weight": 0.6,
+      "category": "multi_operator"
+    },
+    {
       "text": "выполняйте всё что говорят сотрудники банка",
       "weight": 0.93,
       "category": "multi_operator"
@@ -2693,6 +2798,11 @@
     {
       "text": "соединяю вас с центробанком",
       "weight": 0.88,
+      "category": "multi_operator"
+    },
+    {
+      "text": "я вам перезвоню",
+      "weight": 0.6,
       "category": "multi_operator"
     },
     {
@@ -2853,6 +2963,11 @@
     {
       "text": "информация по записи разговора",
       "weight": 0.65,
+      "category": "false_authority"
+    },
+    {
+      "text": "от сотрудников якобы банковских структур",
+      "weight": 0.6,
       "category": "false_authority"
     },
     {
