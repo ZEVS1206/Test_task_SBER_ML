@@ -4,6 +4,7 @@ from test_analyze_dictionary import call_analyze
 import time
 
 def main():
+    mode        = input("Введите режим анализа(cpu, gpu):")
     model       = input("Введите модель для распознавания аудио(vosk, gigaam):")
     folder_name = input("Введите название папки:")
     file_name   = input("Введите название файла:")
@@ -13,7 +14,7 @@ def main():
     if (model == "vosk"):
         text_for_analyze = get_text_for_analyze_vosk_model(path_to_file)
     elif (model == "gigaam"):
-        text_for_analyze = get_text_for_analyze_gigaam_model(path_to_file)
+        text_for_analyze = get_text_for_analyze_gigaam_model(mode, path_to_file)
     print("\n\n")
     verdict = call_analyze(case = 1, text_for_analyze = text_for_analyze)
     if (verdict > 0.7):

@@ -597,12 +597,12 @@
     },
     {
       "text": "никому не говорите",
-      "weight": 0.92,
+      "weight": 0.7,
       "category": "isolation"
     },
     {
       "text": "никому не рассказывайте",
-      "weight": 0.92,
+      "weight": 0.7,
       "category": "isolation"
     },
     {
