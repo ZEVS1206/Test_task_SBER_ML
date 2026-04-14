@@ -4,6 +4,7 @@ import csv
 from test_vosk_model import get_text_for_analyze_vosk_model
 from test_gigaam_model import get_text_for_analyze_gigaam_model
 from test_analyze_dictionary import call_analyze
+from test_text_data import parallel_process_samples
 import time
 
 def analyze_verdict(verdict):
@@ -129,24 +130,33 @@ def gibrit_process_folder(model, folder_path = "../../vishing/samples/Fraud"):
 
 
 def main():
+    type_of_data      = input("Введите тип анализируемой выборки(text, audio):")
     mode_of_execution = input("Введите режим анализа(cpu(многопоточный), gpu(на одном потоке), both):")
-    model             = input("Введите модель для распознавания аудио(vosk, gigaam, both):")
-    folder_path       = input("Введите название папки с выборкой:")
+    if (type_of_data == "audio"):
+        model             = input("Введите модель для распознавания аудио(vosk, gigaam, both):")
+        folder_path       = input("Введите название папки с выборкой:")
+    elif (type_of_data == "text"):
+        file_with_text_data = input("Введите адрес файла с текстовыми данными относительно папки vishing:")
     results = []
-    total_path = "../../vishing/" + folder_path
-    if (mode_of_execution == "cpu"):
-        results, num_of_processes = parallel_process_folder(mode_of_execution, model, folder_path = total_path)
-    elif (mode_of_execution == "gpu"):
-        results = one_process_folder_by_gpu(mode_of_execution, model, folder_path = total_path)
-    elif (mode_of_execution == "both"):
-        results, num_of_processes = gibrit_process_folder(model, folder_path = total_path)
-    else:
-        print("Введен неизвестный режим обработки!")
-        exit(1)
+    if (type_of_data == "audio"):
+        total_path = "../../vishing/" + folder_path
+        if (mode_of_execution == "cpu"):
+            results, num_of_processes = parallel_process_folder(mode_of_execution, model, folder_path = total_path)
+        elif (mode_of_execution == "gpu"):
+            results = one_process_folder_by_gpu(mode_of_execution, model, folder_path = total_path)
+        elif (mode_of_execution == "both"):
+            results, num_of_processes = gibrit_process_folder(model, folder_path = total_path)
+        else:
+            print("Введен неизвестный режим обработки!")
+            exit(1)
+    elif (type_of_data == "text"):
+        total_file_path = "../../vishing/" + file_with_text_data
+        results, num_of_processes = parallel_process_samples(total_file_path)
 
+    print(f"Анализируемые данные: {type_of_data}")
     count_frauds = sum(1 for _, label, _ in results if label == 0)
     percentage_frauds = count_frauds / len(results) * 100
-    print(f"Процент мошеннических разговоров в папке = {percentage_frauds}%")
+    print(f"Процент мошеннических разговоров в выборке = {percentage_frauds}%")
     total_time = sum(elapsed for _, _, elapsed in results)
     avg_time   = total_time / len(results)
     max_file, _, max_time = max(results, key=lambda x: x[2])
@@ -162,8 +172,14 @@ def main():
 
     results_dir = Path("results")
     results_dir.mkdir(exist_ok=True)
-    folder_name = Path(total_path).name
-    file_with_results = results_dir / f"{folder_name}_results.csv"
+    text_data_dir = Path("results/text_data")
+    text_data_dir.mkdir(exist_ok=True)
+
+    if (type_of_data == "audio"):
+        folder_name = Path(total_path).name
+        file_with_results = results_dir / f"{folder_name}_results.csv"
+    elif (type_of_data == "text"):
+        file_with_results = results_dir / f"{file_with_text_data}_results.csv"
     with open(file_with_results, "w", newline= "", encoding="utf-8") as file:
         writer = csv.writer(file, delimiter=';')
         writer.writerow(["Название файла", "label", "Время анализа"])
@@ -171,10 +187,15 @@ def main():
 
     file_with_execute_statistics = results_dir / "statistics.txt"
     with open(file_with_execute_statistics, "a", newline="", encoding="utf-8") as file:
-        file.write(f"Анализируемая выборка: {folder_path}\n")
+        file.write(f"Анализируемые данные: {type_of_data}\n")
+        if (type_of_data == "audio"):
+            file.write(f"Анализируемая выборка: {folder_path}\n")
+        elif (type_of_data == "text"):
+            file.write(f"Анализируемая выборка: {file_with_text_data}\n")
         file.write(f"Режим анализа: {mode_of_execution}\n")
-        file.write(f"Анализ производился с помощью модели(моделей): {model}\n")
-        file.write(f"Процент мошеннических разговоров в папке = {percentage_frauds}%\n")
+        if (type_of_data == "audio"):
+            file.write(f"Анализ производился с помощью модели(моделей): {model}\n")
+        file.write(f"Процент мошеннических разговоров в выборке = {percentage_frauds}%\n")
         if (mode_of_execution == "cpu" or mode_of_execution == "both"):
             file.write(f"Общее время анализа по всем процессам = {total_time:.2f}с\n")
             file.write(f"Реальное время анализа = {total_time / num_of_processes:.2f}с\n")
